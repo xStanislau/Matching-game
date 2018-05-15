@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	margin: 10px;
+}
+p {
+	margin: 10px;
+}
+div {
+	width: 600px;
+	height: 600px;
+	position: absolute;	
+}
+#right-side {
+	left: 600px;
+	border-left: solid 1px #000;
+	position: absolute;
+}
+img {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+}
