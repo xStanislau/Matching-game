@@ -1,6 +1,3 @@
-//face generator
-
-
 function randomNum(rangeNum) {
     return Math.floor(Math.random() * rangeNum);
 }
